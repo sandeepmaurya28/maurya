@@ -1,0 +1,327 @@
+
+/*header part*/
+.err{
+  color: rgb(103, 131, 225);
+}
+.err li{
+  list-style: none;
+}
+
+/* start of marquee*/
+#marquee-tag{
+  
+	/*background-color: #eee;*/
+  
+
+  color: #fff;
+ 
+  padding-left: 101px;
+  background-color: #eee;
+  padding-right: 149px;
+  margin-bottom: 5px;
+}
+#marquee-tag #inner-marquee marquee p{
+  color:#222;
+
+}
+
+
+/*end of marquee */
+/*timeline*/
+
+
+/*end of timeline*/
+
+
+#admin-section{
+border: 1px solid #fff;
+  padding: 5px 5px 5px 5px;
+  
+  overflow:hidden;
+ max-height: 500px;
+}
+
+
+
+
+
+
+/*end of expert corner*/
+/*message us*/
+#message-us{
+  
+  background-color:#f5f5f5;
+  font-size: 20px;
+  
+  font-family: sans-serif,verdana;
+  /*box-shadow: 1px 2px 3px 0 #d0d0dd;*/
+  padding: 3px 10px 3px 10px;
+  border: 1px solid #ddd;
+
+  text-align: justify;
+    border-radius: 4px;
+   
+}
+/*message us*/
+#message-from-user{
+  
+  background-color:#fff;
+  font-size: 20px;
+  
+  font-family: sans-serif,verdana;
+  /*box-shadow: 1px 2px 3px 0 #d0d0dd;*/
+  padding: 3px 10px 3px 10px;
+  border: 1px solid #ddd;
+
+  text-align: justify;
+    border-radius: 4px;
+   
+}
+
+
+
+#googleMap{
+  height: 250px;
+  position: relative;
+  z-index: 5;
+  margin-left: 18px;
+}
+#map-me{
+	max-width: 1364px;
+}
+
+
+#news-area{
+  border-radius: 0px;
+  min-height: 150px;
+  margin-top: 17px;
+  max-height: 150px;
+  border-right: 1px solid #ccc;
+}
+#new-area{
+  border-radius: 0px;
+  min-height: 120px;
+  max-width: 392px;
+  max-height: 120px;
+  border-right: 1px solid #ccc;
+}
+ #part-1{
+  
+  
+
+  display: inline-block;
+  border-radius:0px; 
+  padding: 20px;
+  
+  border: 1px solid #ddd;
+  background-color: #fff;
+  
+ }
+  #part-1 #message-area{
+  border-radius: 0px;
+  min-height: 180px;
+  max-width: 500px;
+  max-height: 180px;
+  border-right: 1px solid #ccc;
+ }
+
+
+   #part-1 #form-g{
+    color: #666;
+    margin-bottom: 0px;
+    font-size: 15px;
+    margin-right: 0px;
+  }
+   #part-1  #label-1{
+  text-align: left;
+  margin-bottom: 10px;
+  padding-right: 0px;
+
+  }
+   #part-1 #form-g #select{
+
+    border-radius: 0px;
+  }
+  #part-1  #label-2{
+    text-align: left;
+    margin-bottom: 10px;
+    font-size: 15px;
+    color: #666;
+    margin-left: -14px;
+   }
+     #part-1 #form-g #firstname{
+    border-radius:0px;
+  }
+  #part-1 #form-g #subject{
+    border-radius:0px;
+  }
+   #part-1  #form-mess{
+    margin-right: 0px;
+  }
+  #part-1 #bta{
+  width: 200px;
+  background-color: green;
+  padding: 5px;
+  border-radius: 4px;
+
+  }
+   /*start of registration*/
+#register-body{
+   
+   padding: 10px;
+  margin-top: -5px;
+  padding-left: 25%;
+  background-color:#fff;
+  
+}
+#register-body #inner-bw{
+
+  height:auto;
+ 
+  float: center;
+ margin-left: 0px;
+
+   padding: 10px;
+   padding-right: 25px;
+   padding-top: 25px;
+   padding-bottom: 20px;
+  
+
+ }
+ #register-body #inner-bw #part-3{
+  
+  
+  
+  display: inline-block;
+  border-radius:0px; 
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 20px;
+  
+  background-color: #fff;
+  
+ }
+ 
+
+#label-news{
+  font-size: 15px;
+ padding-right: 20px;
+
+}
+  
+  
+
+   /*end of registration*/
+    #part-2{
+   padding: 20px;
+  /*background-color:#f6f6f6;*/
+  background-color: #fff;
+  border-radius: 0px;
+  border: 1px solid #ddd;
+ margin-top: 20px;
+  display: inline-block;
+  min-height: 307px;
+ 
+
+ }
+  #part-2 #add{
+    color: #666;
+    font-family: railway;
+    font-size: 18px;
+  }
+   #part-2 a{
+    color: red;
+    text-decoration: none;
+  }
+    #part-2 a:hover{
+    color: green;
+    text-decoration: none;
+   }
+   #faculty-team{
+
+    background-color: #fff;
+   padding-top: 20px;
+   position: relative;
+
+   }
+   #social{
+    position: fixed;
+    height: 300px;
+    right: 0;
+    bottom: 10;
+    z-index: 20;
+    width:70px;
+
+   }
+
+
+#foot-box{
+ /* background-color: #282828;*/
+ background-color: #05A6B3;
+
+ padding: 20px;
+  padding-left: 98px;
+  padding-right: 100px;
+  width: 100%;
+}
+#our-services{
+  
+  padding: 30px;
+  padding-left: 45px;
+  color: #eaeaea;
+  padding-top: 15px;
+}
+h4{
+   /* color: #bfbdb6;*/
+   color: #fff;
+}
+h4:hover{
+  color:#777;
+}
+#follow-us{
+  color: #eaeaea;
+  padding: 30px;
+  padding-left: 45px;
+    padding-top: 15px;
+
+}
+#reach-us{
+  color: #eaeaea;
+  padding: 30px;
+  text-align: left;
+    padding-top: 15px;
+    padding-left: 45px;
+
+}
+#face{
+   color: #428bca;
+}
+#face:hover{
+  color: #165C99;
+}
+#tweet{
+  color:#E24F23;
+}
+#tweet:hover{
+  color: #CD4D38;
+}
+#what{
+  color:#888;
+}
+#what:hover{
+  color: #666;
+}
+p{
+ /* color: #bfbdb6;*/
+ color: #6c6c6c;
+
+
+}
+a{
+  
+}
+a:hover{
+  text-decoration: none;
+
+};
+

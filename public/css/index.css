@@ -1,0 +1,31 @@
+.director h4 span {
+	margin-right: 15%;
+	padding: 6px 10px;
+	    background: #05A6B3;
+    color: #fff;
+    padding: 9px 15px;
+    margin-right: 16%;
+}
+.director h4 {
+	padding: 7px 0px;
+	    color: #05a6b3;
+    padding: 10px 0px;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: 'Play-Regular';
+    background: rgba(34, 34, 34, 0.08);
+    text-align: left;
+    margin: 0;
+}
+#back-img{
+	   background: url('../includes/images/fff.png')   left;
+       padding: 10px;
+}
+#back-imgf{
+     background: url('../includes/images/fff.jpg') left ;
+       padding: 10px;
+}
+#back-img1{
+       background: url('../includes/images/fff.png')   left;
+       padding: 10px;
+}
